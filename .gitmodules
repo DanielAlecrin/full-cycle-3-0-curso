@@ -1,3 +1,6 @@
 [submodule "sistemas-monoliticos"]
 	path = sistemas-monoliticos
 	url = https://github.com/DanielAlecrin/sistemas-monoliticos.git
+[submodule "clean-architecture"]
+	path = clean-architecture
+	url = https://github.com/DanielAlecrin/clean-architecture.git
