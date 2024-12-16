@@ -17,3 +17,4 @@ O Curso Full Cycle é uma formação completa para fazer com que pessoas desenvo
 
 - [Sistemas monolíticos](https://github.com/DanielAlecrin/sistemas-monoliticos)
 - [Clean Architecture](https://github.com/DanielAlecrin/clean-architecture)
+- [Event Driven Architecture](https://github.com/DanielAlecrin/event-driven-architecture)
