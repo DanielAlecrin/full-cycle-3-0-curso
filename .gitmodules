@@ -6,3 +6,6 @@
 	path = clean-architecture
 	url = https://github.com/DanielAlecrin/clean-architecture.git
 	branch = main
+[submodule "event-driven-architecture"]
+	path = event-driven-architecture
+	url = https://github.com/DanielAlecrin/event-driven-architecture
